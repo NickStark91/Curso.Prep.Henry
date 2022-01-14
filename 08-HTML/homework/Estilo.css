@@ -23,5 +23,6 @@ img {
 	margin: 50px;
 }
 div {
-	position: ;
+	display: flex;
+	align-items: center;
 }
