@@ -1,0 +1,24 @@
+* {
+	font-family: comic-sans, verdana;
+}
+
+.Photo_container {
+	display: flex;
+	height: 170px;
+	width: 150px;
+}
+
+.Study_Container{
+	display: block;
+	justify-content: center;
+}
+
+.title1 {
+	display: block;
+	position: fixed;
+}
+
+.title2 {
+	display: block;
+	position: fixed;
+}

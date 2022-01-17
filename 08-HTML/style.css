@@ -1,0 +1,27 @@
+html{
+    background-image: url(/Users/nicolassarmiento/Documents/Curso.Prep.Henry/Curso.Prep.Henry/08-HTML/Rambla-uy.jpg);
+}
+body{
+    text-align: center;
+}
+h1 {
+    color:brown
+}
+div{
+    text-align: center;
+}
+img {
+    width: 400px; 
+}
+
+#ThirdDiv {
+    height: 500px;
+    width: 600px;
+    background-color: cadetblue;
+    padding: 50px;
+    border: 3px coral solid;
+}
+#SpanId {
+    font-size: 18px;
+    margin: 50px;
+}

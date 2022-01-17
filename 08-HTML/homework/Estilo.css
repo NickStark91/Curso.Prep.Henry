@@ -1,6 +1,8 @@
 body {
 	font-family: comic-sans, verdana;
-	background-image: SodaStereo.jpg;
+	display: flex;
+	justify-content: safe center;
+	background-image: url(SodaStereo.jpg);
 }
 
 h1 {
@@ -22,7 +24,4 @@ img {
 	color: red;
 	margin: 50px;
 }
-div {
-	display: flex;
-	align-items: center;
-}
+

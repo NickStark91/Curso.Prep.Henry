@@ -46,7 +46,7 @@ III. Cree una hoja de estilo externa y mueva todas las reglas de estilo anterior
 ```
 
 ```
-IV. Suba su trabajo a su repositorio de github`
+IV. Suba su trabajo a su repositorio de github
 ```
 
 ### Crédito adicional:
@@ -66,6 +66,7 @@ Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la car
 * Titulo
 * Descripción Personal
 * Educación
+
 * Experiencias Laborales
 * Skills
 * Tu foto
